@@ -35,13 +35,6 @@
     border: 1px solid #dddddd !important;
 }
 
-.mostrar-senha, .mostrar-senha:focus, .mostrar-senha:active, .ocultar-senha, .ocultar-senha:focus, .ocultar-senha:active {
-    display: block;
-    line-height: 32px;
-    text-decoration: none !important;
-    white-space: nowrap;
-}
-
 .box-final-cadastrar {
     margin-bottom: 30px;
 }
